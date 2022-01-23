@@ -1,4 +1,4 @@
-#DO-IT_NLP_Example-code
+# DO-IT_NLP_Example-code
 교재 'Do It NLP' 내의 교재들을 직접 코드화 하여 진행해보는 예제이다.
 본래 colab을 이용하여 진행된 예제들로서,
 컴퓨터 내, cuda와 cuDNN을 제대로 설치된 환경에서,
