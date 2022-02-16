@@ -12,7 +12,9 @@
 
 anaconda3 가상 환경으로, python 3.7, cuda 11.2, cuDNN 8.1 환경입니다.
 
-노트북 사양이 NVIDIA GeForce GTX 1650 Ti로 gpu를 지원하여, 주피터노트북으로 돌리던 환경을 컴퓨터 자체로 가동시키는 파일 입니다.
+노트북 사양: NVIDIA GeForce GTX 1650 Ti로 gpu를 지원.
+
+python file: 주피터노트북으로 돌리던 환경을 컴퓨터 자체로 가동시키는 파일.
 
 
 ## checking_GPU
